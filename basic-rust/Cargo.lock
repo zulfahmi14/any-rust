@@ -12,10 +12,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "any-rust"
-version = "0.1.0"
-
-[[package]]
 name = "basic-rust"
 version = "0.1.0"
 dependencies = [

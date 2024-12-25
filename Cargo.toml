@@ -1,5 +1,5 @@
 [workspace]
-members = ["basic-rust"]
+members = ["basic-rust", "interactive-cli"]
 
 [package]
 name = "any-rust"
